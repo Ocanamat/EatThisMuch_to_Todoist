@@ -1,0 +1,13 @@
+etm_html_filepath: ~\Health\Diet & Food\Meal Plans\Current_MealPlan.html
+todoist_token: "your todoist token"
+todoist_project: "Today"
+todoist_append_inbox: True
+todoist_inbox_hide_lowpriority: False # Will hide priority level D
+max_items: 0
+filename_output: todoist_todo.txt
+tag_mealtask: "#mealplan"
+export_file_as: ~\Documents\Rainmeter\Skins\todoist\todoist_todo.txt # Full path where to copy the file to. Must include filename
+show_completed_tasks: yes
+clean_up_completed_tasks: yes # Auto remove completed tasks from Todoist. Currently required to stay as Yes. If you dont like it downgrade to previous versions and wait for an update.
+debug: False
+show_due_date: yes
